@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: prawinkorvi/petclinicimage
-  tag: latest
+  repository: prawinkorvi/petclinic
+  tag: 2
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
