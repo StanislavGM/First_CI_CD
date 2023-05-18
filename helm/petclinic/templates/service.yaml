@@ -12,5 +12,5 @@ spec:
   type: LoadBalancer
   ports:
   - nodePort: 32750
-    port: 443
-    targetPort: 443
+    port: 8080
+    targetPort: 8080
